@@ -1,0 +1,33 @@
+
+        body {
+            background-color: #1e2167; /* Light Blue */
+        }
+
+        .navbar {
+            background-color: #007bff;
+        }
+
+        .jumbotron {
+            background-color: #d5dbe0;
+            padding: 50px;
+        }
+
+        #time {
+            font-size: 5rem;
+            color: #0e1013;
+        }
+
+        .btn-primary {
+            background-color: #073668;
+            border-color: #073668;
+        }
+
+        .btn-primary:hover {
+            background-color: #073668;
+            border-color: #0056b3;
+        }
+        .navbar{
+          margin-bottom: 50px;
+          padding: 20px;
+          font-size: 25px;
+        }
